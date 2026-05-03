@@ -11,7 +11,7 @@ These projects were built as part of an assignment to practice clean UI design a
 
 ### 🔹 Profile Page UI (project-01)
 
-🔗 [View Project](https://github.com/your-username/038_FA_11/tree/main/All_project/project-01)
+🔗 [View Project]([https://github.com/your-username/038_FA_11/tree/main/All_project/project-01](https://github.com/arman1501/038_FA_11/tree/main/project_01))
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/555f7f01-39a9-4f2d-8d50-d5892c36da41" width="200"/>
@@ -21,7 +21,7 @@ These projects were built as part of an assignment to practice clean UI design a
 
 ### 🔹 Settings Page UI (project-02)
 
-🔗 [View Project](https://github.com/your-username/038_FA_11/tree/main/All_project/project-02)
+🔗 [View Project]([https://github.com/your-username/038_FA_11/tree/main/All_project/project-02](https://github.com/arman1501/038_FA_11/tree/main/project_02))
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e3517f5b-c92d-4018-8d39-869bd0cdb675" width="200"/>
