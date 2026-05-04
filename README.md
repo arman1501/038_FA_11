@@ -36,3 +36,8 @@ All_project/
  ├── project-01/
  └── project-02/
 ```
+---
+Author Information
+© 2026 Md. Arman Hussan | Student ID: 0182410012101038 | Section: 63A
+
+This project is developed for academic purposes. Copying without proper modification is strongly discouraged.
